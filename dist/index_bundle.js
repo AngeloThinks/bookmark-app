@@ -1,0 +1,2 @@
+// //The final compiled JavaScript and CSS output should go to dist/index_bundle.js.
+// The HTML plugin defines the source HTML at src/index.html. It will automatically copy this file to the dist directory when the "production" build is run - also adding a reference to your JavaScript.
